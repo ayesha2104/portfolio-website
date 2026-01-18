@@ -192,7 +192,7 @@ export const portfolioData: PortfolioData = {
         {
             company: "Techwalla.in",
             role: "Frontend Developer Intern",
-            duration: "June 2024 - July 2024",
+            duration: "June 2025 - July 2025",
             location: "Remote",
             responsibilities: [
                 "Developed scalable UI components using React.js, ensuring 100% responsiveness.",
