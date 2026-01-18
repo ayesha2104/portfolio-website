@@ -75,7 +75,7 @@ export interface PortfolioData {
 export const portfolioData: PortfolioData = {
     personal: {
         name: "Ayesha Mohapatra",
-        role: "Software Development Engineer",
+        role: "Aspiring Software Development Engineer",
         intro: "Building scalable distributed systems and solving complex algorithmic challenges.",
         bio: "Aspiring Software Development Engineer with a strong foundation in Data Structures, Algorithms, and System Design. I specialize in building high-performance backend systems and scalable full-stack applications. With over 100+ LeetCode problems solved, I thrive on optimizing code efficiency and architecting robust solutions.",
         location: "Bhubaneswar, India",
