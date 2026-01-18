@@ -1,0 +1,21 @@
+
+> gamified-portfolio@0.0.0 build
+> tsc -b && vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32m???[39m 439 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                         [39m[1m[2m  1.10 kB[22m[1m[22m[2m ??? gzip:   0.54 kB[22m
+[2mdist/[22m[35massets/index-CQ76kGFg.css          [39m[1m[2m 34.01 kB[22m[1m[22m[2m ??? gzip:   5.99 kB[22m
+[2mdist/[22m[36massets/index-BaYC1P41.js           [39m[1m[2m  3.58 kB[22m[1m[22m[2m ??? gzip:   1.71 kB[22m
+[2mdist/[22m[36massets/SkillTree-gIx4xiMA.js       [39m[1m[2m  5.04 kB[22m[1m[22m[2m ??? gzip:   1.92 kB[22m
+[2mdist/[22m[36massets/Landing-B-EfC7gc.js         [39m[1m[2m  5.54 kB[22m[1m[22m[2m ??? gzip:   1.95 kB[22m
+[2mdist/[22m[36massets/ProjectBattles-D_KuQGBB.js  [39m[1m[2m  5.79 kB[22m[1m[22m[2m ??? gzip:   2.00 kB[22m
+[2mdist/[22m[36massets/CharacterStats-AFFUVKAJ.js  [39m[1m[2m  9.97 kB[22m[1m[22m[2m ??? gzip:   3.04 kB[22m
+[2mdist/[22m[36massets/Timeline-DkPHyZ1K.js        [39m[1m[2m 11.76 kB[22m[1m[22m[2m ??? gzip:   3.48 kB[22m
+[2mdist/[22m[36massets/ContactBoss-SH0SemMt.js     [39m[1m[2m 15.36 kB[22m[1m[22m[2m ??? gzip:   6.13 kB[22m
+[2mdist/[22m[36massets/portfolio-BAurKDCG.js       [39m[1m[2m 26.26 kB[22m[1m[22m[2m ??? gzip:  10.59 kB[22m
+[2mdist/[22m[36massets/index-y7mqMxu-.js           [39m[1m[2m314.16 kB[22m[1m[22m[2m ??? gzip: 100.85 kB[22m
+[32m??? built in 4.01s[39m
