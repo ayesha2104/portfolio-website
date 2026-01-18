@@ -126,7 +126,7 @@ const Landing: React.FC = () => {
                     >
                         <div className="h-px w-12 bg-game-primary/30" />
                         <p className="text-sm md:text-base font-mono text-game-primary uppercase tracking-[0.5em] font-bold">
-                            Software Development Engineer
+                            Aspiring Software Development Engineer
                         </p>
                         <div className="h-px w-12 bg-game-primary/30" />
                     </motion.div>
